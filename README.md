@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋 I'm George Kaldiris</h1>
 
-<p align="center">
-Environmental Engineer • Data Analyst • Aspiring Data Engineer
-</p>
 
 ---
 
