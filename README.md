@@ -4,13 +4,13 @@
 
 ## 👨‍🎓 Academic Background
 
- 🎓Integrated Master of Science (M.Sc.) in Enviromental Engineering — University of Patras  
+ - 🎓Integrated Master of Science (M.Sc.) in Enviromental Engineering — University of Patras  
  A five-year program (300 ECTS) with strong quantitative background and focus on data analysis, technical problem solving and engineering systems.
 
-🧪 **M.Sc. in Polymer and Composite Materials Science & Technology** — University of Patras  
+- 🧪 **M.Sc. in Polymer and Composite Materials Science & Technology** — University of Patras  
   Research-oriented master's program with emphasis on experimental data processing, analysis and interpretation.  
 
-  📊 **AI Data Analyst Bootcamp** — Workearly  
+- 📊 **AI Data Analyst Bootcamp** — Workearly  
   Practical training in data cleaning, analysis, visualization, SQL querying, Python (Pandas, NumPy), Power BI and AI-assisted analysis concepts.
 
 ---
