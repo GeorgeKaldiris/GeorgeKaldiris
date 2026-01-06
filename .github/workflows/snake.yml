@@ -1,0 +1,37 @@
+name: GitHub Snake Game
+
+# Give the GITHUB_TOKEN permission to push a branch
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # daily at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            # purple variant (URL-encoded # as %23)
+            dist/github-snake-purple.svg?palette=github&color_snake=%238A2BE2&color_dots=%23D8B4FE,%23C084FC,%23A855F7,%239256D1,%237C3AED
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation [skip ci]"
