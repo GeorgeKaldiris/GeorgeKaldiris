@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm George Kaldiris</h1>
 
 
-## 👨‍💻 About Me
+## 👨‍🎓 Academic Background
 
  🎓Integrated Master of Science (M.Sc.) in Enviromental Engineering — University of Patras  
  A five-year program (300 ECTS) with strong quantitative background and focus on data analysis, technical problem solving and engineering systems.
