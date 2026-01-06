@@ -43,6 +43,12 @@
 ### Energy Emissions Lakehouse(Python (Pandas), SQL, PostgreSQL, Docker Compose, Power BI) 
 An end-to-end data analytics project that simulates energy production and emissions data and processes it through a **Bronze → Silver → Gold** pipeline. The project loads a star-schema into PostgreSQL and visualizes KPIs in Power BI. It is fully containerized using Docker Compose to demonstrate reproducible local data workflows.
 
+## 👤 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Kaldiris-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-kaldiris-01302825b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://github.com/GeorgeKaldiris?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:giwrgoskaldiris@gmail.com)
+
 ## 🛠️ Tech Stack
 
 ### Languages
