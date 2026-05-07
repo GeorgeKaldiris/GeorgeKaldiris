@@ -65,11 +65,6 @@ An end-to-end data analytics project that processes energy production and emissi
 
 A structured data workflow for retail sales analytics, including raw-to-cleaned transformations, KPI marts, validation SQL and dashboard reporting.
   
-## 👤 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Kaldiris-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-kaldiris-01302825b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://github.com/GeorgeKaldiris?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:giwrgoskaldiris@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -78,6 +73,12 @@ A structured data workflow for retail sales analytics, including raw-to-cleaned 
 **Databases:** PostgreSQL  
 **Visualization:** Power BI  
 **Tools:** Git, GitHub, Docker, Docker Compose, Jupyter Notebook, VS Code
+
+## 👤 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Kaldiris-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-kaldiris-01302825b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://github.com/GeorgeKaldiris?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:giwrgoskaldiris@gmail.com)
 <!--
 </details>
 
