@@ -4,14 +4,17 @@
 
 ## 👨‍🎓 Academic Background
 
- - 🎓**Integrated Master of Science (M.Sc.) in Enviromental Engineering** — University of Patras  
- A five-year program (300 ECTS) with strong quantitative background and focus on data analysis, technical problem solving and engineering systems.
+🎓 **M.Sc. in Data Science — University of Nicosia**  
+Currently studying Machine Learning, Artificial Intelligence, Data Science, Statistics and Python-based data analysis.
 
-- 🧪 **M.Sc. in Polymer and Composite Materials Science & Technology** — University of Patras  
-  Research-oriented master's program with emphasis on experimental data processing, analysis and interpretation.  
+🧪 **M.Sc. in Polymer and Composite Materials Science & Technology — University of Patras**  
+Research-oriented master's program with emphasis on experimental data processing, analysis and interpretation.
 
-- 📊 **AI Data Analyst Bootcamp** — Workearly  
-  Practical training in data cleaning, analysis, visualization, SQL querying, Python (Pandas, NumPy), Power BI and AI-assisted analysis concepts.
+🎓 **Integrated M.Sc. in Environmental Engineering — University of Patras**  
+Five-year engineering program with strong quantitative background, technical problem solving and data analysis foundations.
+
+📊 **AI Data Analyst Bootcamp — Workearly**  
+Practical training in Python, SQL, Power BI, data cleaning, automation, visualization and AI-assisted analysis concepts.
 
 ---
 
