@@ -73,8 +73,6 @@ A structured data workflow for retail sales analytics, including raw-to-cleaned 
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 **Programming & Data:** Python, SQL, Pandas, NumPy  
 **AI/ML Foundations:** TF-IDF, cosine similarity, vector representations, embeddings, masking, ReLU, softmax  
 **Databases:** PostgreSQL  
