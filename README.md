@@ -33,11 +33,11 @@ Practical training in Python, SQL, Power BI, data cleaning, automation, visualiz
 
   ## 🚀 What I'm Working On
 
-- 📊 Practicing **data analysis with Python** (Pandas, NumPy)  
-- 🗄️ Strengthening **SQL skills** and relational database understanding  
-- 📈 Building dashboards and reports with **Power BI**  
-- 🤖 Exploring **AI-assisted data analysis** concepts  
-- ☁️ Learning **cloud fundamentals** and improving workflows using **Docker**
+- Building Machine Learning and AI foundations through academic projects and independent learning.
+- Practicing NLP concepts such as TF-IDF, cosine similarity and vector-based document representation.
+- Understanding deep learning fundamentals through NumPy-based implementations of embeddings, masking, ReLU and softmax.
+- Strengthening Python, NumPy, Pandas, SQL and data workflow skills.
+- Learning how to organize projects professionally on GitHub for junior ML / AI roles.
 
  ---
 
