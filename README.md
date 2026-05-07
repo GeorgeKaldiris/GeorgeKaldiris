@@ -41,12 +41,29 @@ Practical training in Python, SQL, Power BI, data cleaning, automation, visualiz
 
  ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
-- **Energy Emissions Lakehouse(Python (Pandas), SQL, PostgreSQL, Docker Compose, Power BI)** 
-An end-to-end data analytics project that simulates energy production and emissions data and processes it through a **Bronze → Silver → Gold** pipeline. The project loads a star-schema into PostgreSQL and visualizes KPIs in Power BI. It is fully containerized using Docker Compose to demonstrate reproducible local data workflows.
-- **Retail Sales Lakehouse (Bronze → Silver → Gold) + PostgreSQL + Power BI**  
-End-to-end pipeline: raw → cleaned → KPI marts, star schema in Postgres (Docker), validation SQL (CTEs/window functions/EXPLAIN), idempotent load, Power BI dashboard.  
+### TF-IDF Based Document Similarity using Cosine Similarity  
+**Python, NumPy, NLP**
+
+A custom TF-IDF vectorizer combined with a NumPy-based cosine similarity function to compare text documents based on their vector representations.  
+The project includes vocabulary creation, inverse document frequency calculation, TF-IDF transformation, optional stopword removal and pairwise document similarity computation.
+
+### Neural Network Forward Pass with NumPy Embeddings  
+**Python, NumPy, Deep Learning Fundamentals**
+
+A simplified neural network forward pass implemented with NumPy.  
+The project includes token embeddings, padding masks, masked average pooling, linear transformations, ReLU activation and softmax probability calculation.
+
+### Energy Emissions Lakehouse  
+**Python, SQL, PostgreSQL, Docker Compose, Power BI**
+
+An end-to-end data analytics project that processes energy production and emissions data through a Bronze → Silver → Gold pipeline, loads a star schema into PostgreSQL and visualizes KPIs in Power BI.
+
+### Retail Sales Lakehouse  
+**SQL, PostgreSQL, Docker, Power BI**
+
+A structured data workflow for retail sales analytics, including raw-to-cleaned transformations, KPI marts, validation SQL and dashboard reporting.
   
 ## 👤 Connect with me
 
@@ -56,27 +73,13 @@ End-to-end pipeline: raw → cleaned → KPI marts, star schema in Postgres (Doc
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
 
----
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-### Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
----
-
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+**Programming & Data:** Python, SQL, Pandas, NumPy  
+**AI/ML Foundations:** TF-IDF, cosine similarity, vector representations, embeddings, masking, ReLU, softmax  
+**Databases:** PostgreSQL  
+**Visualization:** Power BI  
+**Tools:** Git, GitHub, Docker, Docker Compose, Jupyter Notebook, VS Code
 <!--
 </details>
 
