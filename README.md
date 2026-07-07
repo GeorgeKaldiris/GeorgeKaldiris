@@ -38,48 +38,57 @@ Practical training in Python, SQL, Power BI, data cleaning, automation, visualiz
 
   ---
 
-  ## 🚀 What I'm Working On
+## 🚀 What I'm Working On
 
-- Building Machine Learning and AI foundations through academic projects and independent learning.
-- Practicing NLP concepts such as TF-IDF, cosine similarity and vector-based document representation.
-- Understanding deep learning fundamentals through NumPy-based implementations of embeddings, masking, ReLU and softmax.
-- Strengthening Python, NumPy, Pandas, SQL and data workflow skills.
-- Learning how to organize projects professionally on GitHub for junior ML / AI roles.
+- Building end-to-end Machine Learning projects with clear training, evaluation and deployment workflows.
+- Practicing ML model serving using FastAPI and Docker.
+- Strengthening my understanding of MLOps concepts such as artifact saving, reproducible training, inference separation and API deployment.
+- Improving my foundations in scikit-learn, NLP, model evaluation, cross-validation and applied AI systems.
+- Exploring applied ML use cases in areas such as URL classification, text processing and data-driven detection problems.
 
  ---
 
 ## ⭐ Featured Projects
 
-### TF-IDF Based Document Similarity using Cosine Similarity  
+### Phishing URL Classifier API
+**Python, scikit-learn, TF-IDF, FastAPI, Docker**
+
+An end-to-end machine learning API for URL classification.  
+The project includes URL preprocessing, character-level TF-IDF vectorization, Logistic Regression training, threshold tuning, cross-validation, model evaluation with Precision/Recall/F1, saved model artifacts, reusable inference logic, FastAPI model serving and Docker containerization.
+
+### TF-IDF Based Document Similarity
 **Python, NumPy, NLP**
 
-A custom TF-IDF vectorizer combined with a NumPy-based cosine similarity function to compare text documents based on their vector representations.  
-The project includes vocabulary creation, inverse document frequency calculation, TF-IDF transformation, optional stopword removal and pairwise document similarity computation.
+A custom TF-IDF and cosine similarity project for comparing text documents based on vector representations.
 
-### Neural Network Forward Pass with NumPy Embeddings  
+### Neural Network Forward Pass with NumPy Embeddings
 **Python, NumPy, Deep Learning Fundamentals**
 
-A simplified neural network forward pass implemented with NumPy.  
-The project includes token embeddings, padding masks, masked average pooling, linear transformations, ReLU activation and softmax probability calculation.
+A simplified neural network forward pass implemented with NumPy, including token embeddings, masking, pooling, ReLU activation and softmax probability calculation.
 
-### Energy Emissions Lakehouse  
+### Energy Emissions Lakehouse
 **Python, SQL, PostgreSQL, Docker Compose, Power BI**
 
-An end-to-end data analytics project that processes energy production and emissions data through a Bronze → Silver → Gold pipeline, loads a star schema into PostgreSQL and visualizes KPIs in Power BI.
+An end-to-end data analytics pipeline that processes energy production and emissions data through a structured workflow and visualizes KPIs in Power BI.
 
-### Retail Sales Lakehouse  
-**SQL, PostgreSQL, Docker, Power BI**
-
-A structured data workflow for retail sales analytics, including raw-to-cleaned transformations, KPI marts, validation SQL and dashboard reporting.
   
 
 ## 🛠️ Tech Stack
 
 **Programming & Data:** Python, SQL, Pandas, NumPy  
-**AI/ML Foundations:** TF-IDF, cosine similarity, vector representations, embeddings, masking, ReLU, softmax  
-**Databases:** PostgreSQL  
+**Machine Learning:** scikit-learn, TF-IDF, Logistic Regression, model evaluation, cross-validation  
+**NLP Foundations:** vector representations, cosine similarity, character n-grams  
+**Deep Learning Foundations:** embeddings, masking, ReLU, softmax  
+**Databases & Data Workflows:** PostgreSQL, ETL-style pipelines, data cleaning  
+**MLOps / Deployment:** FastAPI, Docker, Docker Compose, Git, GitHub, saved model artifacts  
 **Visualization:** Power BI  
-**Tools:** Git, GitHub, Docker, Docker Compose, Jupyter Notebook, VS Code
+**Tools:** Jupyter Notebook, VS Code, GitHub  
+
+## Current Direction
+
+I am focusing on practical ML/AI projects that combine model development with clean software structure, documentation and deployment.
+
+My main professional direction is Junior ML/AI Engineering, with additional interest in MLOps and applied AI systems.
 
 ## 👤 Connect with me
 
