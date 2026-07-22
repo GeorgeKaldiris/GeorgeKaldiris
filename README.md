@@ -50,11 +50,25 @@ Practical training in Python, SQL, Power BI, data cleaning, automation, visualiz
 
 ## ⭐ Featured Projects
 
-### Phishing URL Classifier API
-**Python, scikit-learn, TF-IDF, FastAPI, Docker**
+### Smart Grid Load Forecasting & Anomaly Detection API
 
-An end-to-end machine learning API for URL classification.  
-The project includes URL preprocessing, character-level TF-IDF vectorization, Logistic Regression training, threshold tuning, cross-validation, model evaluation with Precision/Recall/F1, saved model artifacts, reusable inference logic, FastAPI model serving and Docker containerization.
+**Python, pandas, scikit-learn, FastAPI, Docker, pytest, GitHub Actions, Azure Container Apps**
+
+An end-to-end ML engineering project for smart grid power consumption forecasting and residual-based anomaly detection.
+
+The final `HistGradientBoostingRegressor` uses leakage-aware lag and rolling-window features with chronological train/test splitting, improving MAE by **25.26%** and RMSE by **29.48%** compared with a naive forecasting baseline.
+
+The trained model is served through a FastAPI inference API, containerized with Docker, tested using pytest, integrated with GitHub Actions CI and demonstrated through a short-lived deployment on Azure Container Apps.
+
+### Phishing URL Classifier AP
+
+**Python, scikit-learn, TF-IDF, Logistic Regression, FastAPI, Docker, pytest, GitHub Actions**
+
+An end-to-end machine learning system for classifying URLs as legitimate or potentially malicious.
+
+The model was trained on **150,000 URLs** using character-level TF-IDF features and Logistic Regression, achieving **96.21% accuracy**. Decision-threshold tuning and stratified cross-validation were used to improve malicious URL detection while controlling false positives.
+
+The validated model and vectorizer are stored as reusable artifacts and served through a FastAPI inference API. The application is containerized with Docker, tested using pytest and integrated with GitHub Actions CI.
 
 ### TF-IDF Based Document Similarity
 **Python, NumPy, NLP**
