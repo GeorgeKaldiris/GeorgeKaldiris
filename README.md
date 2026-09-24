@@ -31,7 +31,7 @@ Practical training in Python, SQL, Power BI, data cleaning, automation, visualiz
   Technical data management, project monitoring and internal reporting.
 
 - 🔬 **Master’s Researcher — FORTH (Foundation for Research and Technology, Hellas)**  
-  Processing and analysis of experimental datasets using Excel, development of automation scripts and visualization of research results.
+  Processing and analysis of experimental datasets, development of automation scripts and visualization of research results.
 
 - 🏗️ **Intern — TITAN A.E.**  
   Data recording, Excel-based automation, Access database updates and reporting support for production and logistics operations.
