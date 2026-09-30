@@ -6,7 +6,7 @@ I'm a Data Science MSc student with an engineering background, focused on Machin
 
 I am currently building end-to-end ML projects that go beyond notebooks and include data preprocessing, model evaluation, saved model artifacts, reusable inference logic, APIs and Docker-based deployment.
 
-My current goal is to grow toward Junior ML/AI Engineer or MLOps-oriented roles, while exploring different applied AI domains such as text classification, data workflows and security-related ML use cases.
+My current goal is to grow toward Junior ML/AI Engineer or MLOps-oriented roles, while exploring different applied AI domains.
 
 
 ## 👨‍🎓 Academic Background
