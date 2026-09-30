@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋 I'm George Kaldiris</h1>
 
 
-I'm a Data Science MSc student with an engineering background, focused on Machine Learning, Applied AI and practical ML systems.
+I'm a Data Science MSc student with an engineering background, focused on Machine Learning, Deep Learning and Research.
 
 I am currently building end-to-end ML projects that go beyond notebooks and include data preprocessing, model evaluation, saved model artifacts, reusable inference logic, APIs and Docker-based deployment.
 
-My current goal is to grow toward Junior ML/AI Engineer or MLOps-oriented roles, while exploring different applied AI domains.
+My current goal is to grow toward Junior ML/AI Engineer and ML Research Scientist, while exploring different applied AI domains.
 
 
 ## 👨‍🎓 Academic Background
@@ -19,9 +19,6 @@ Research-oriented master's program with emphasis on experimental data processing
 
 🎓 **Integrated M.Sc. in Environmental Engineering — University of Patras**  
 Five-year engineering program with strong quantitative background, technical problem solving and data analysis foundations.
-
-📊 **AI Data Analyst Bootcamp — Workearly**  
-Practical training in Python, SQL, Power BI, data cleaning, automation, visualization and AI-assisted analysis concepts.
 
 ---
 
