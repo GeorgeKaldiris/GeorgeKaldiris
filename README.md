@@ -104,11 +104,11 @@ I am focusing on practical ML/AI projects that combine model development with cl
 
 My main professional direction is Junior ML/AI Engineering, with additional interest in MLOps and applied AI systems.
 
-## 👤 Connect with me
+## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Kaldiris-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-kaldiris-01302825b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=firefox)](https://github.com/GeorgeKaldiris?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:giwrgoskaldiris@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/george-kaldiris-01302825b/
+- GitHub: https://github.com/GeorgeKaldiris
+- Email: giwrgoskaldiris@gmail.com
 <!--
 </details>
 
